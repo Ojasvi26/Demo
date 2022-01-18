@@ -4,5 +4,9 @@ class Student{
     Student{
         System.Out.Println("Hello");
     }
+    Public int display(int rollno)
+    {
+        return rollno;
+    }
 
 }
